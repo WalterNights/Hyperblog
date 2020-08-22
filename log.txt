@@ -1,3 +1,92 @@
+commit c60fe195c4590fb918d31f17d1316c5fb7221bfb
+Author: Walter Hernandez <70042323+WalterNights@users.noreply.github.com>
+Date:   Fri Aug 21 22:37:59 2020 -0500
+
+    Se cambio la palabra post por Hyperblog
+
+commit 10d91bc89bb880c306c8ef68de02ed3a74817a98
+Author: Walter Hernandez <70042323+WalterNights@users.noreply.github.com>
+Date:   Fri Aug 21 22:36:11 2020 -0500
+
+    Se cambio el titulo del blog post
+    
+    para hacerlo mas acorde, ademas de una corrección gramatical.
+
+commit a0cda1b08b2484f2ed81be121d6e5390ee193d17
+Merge: 0316c1e 6abc026
+Author: WalterNights <walternights@gmail.com>
+Date:   Fri Aug 21 22:20:40 2020 -0500
+
+    Merge branch 'master' of https://github.com/WalterNights/Hyperblog into master
+
+commit 6abc026a56c52b226b54d34e38df7e383264caf2
+Author: WalterNights <70042323+WalterNights@users.noreply.github.com>
+Date:   Fri Aug 21 19:41:53 2020 -0500
+
+    Initial commit
+
+commit 0316c1e1eb66a243bc15900e41eece013385cd7e
+Merge: f63fda8 9919450
+Author: Walternights <walternights@gmail.com>
+Date:   Fri Aug 21 18:35:40 2020 -0500
+
+    Se solucionó el conflicto de las ramas al fucionarlas
+
+commit f63fda852401680ba8fd1dd2ba9f6bed958de379
+Author: Walternights <walternights@gmail.com>
+Date:   Fri Aug 21 18:23:48 2020 -0500
+
+    Se añadio la palabra suscripcion y se cambio el texto de cabecera a maestro
+
+commit 9919450806ef3cb1f71be3961e555e3f2bc7559f
+Author: Walternights <walternights@gmail.com>
+Date:   Fri Aug 21 18:20:59 2020 -0500
+
+    Se modificó el texto de cabecera y el color del texto
+
+commit cc2b5ee387498ed45bd12ba40f127ed3a49f19a3
+Author: Walternights <walternights@gmail.com>
+Date:   Thu Aug 20 17:32:04 2020 -0500
+
+    Cambio a la fuente Courier por Bebas light
+
+commit bd981315b381b39c217c185a137275b53a23c950
+Merge: b5c24fd c9b6683
+Author: Walternights <walternights@gmail.com>
+Date:   Thu Aug 20 17:27:44 2020 -0500
+
+    Merge branch 'cabecera' into master
+
+commit b5c24fdb51f24db46239d2b79f097ac686ed458b
+Author: Walternights <walternights@gmail.com>
+Date:   Thu Aug 20 17:20:34 2020 -0500
+
+    Agregado el contenido adicional de blog
+
+commit c9b66839288ab5a9ad78b8a084954709bd2752d7
+Author: Walternights <walternights@gmail.com>
+Date:   Thu Aug 20 17:13:37 2020 -0500
+
+    Finalizada la cabecera con diseño azul
+
+commit 341853ef4094dfcf56069472f3f4cdb1419f3bb3
+Author: Walternights <walternights@gmail.com>
+Date:   Thu Aug 20 16:37:50 2020 -0500
+
+    Estructura inicial de la cabecera
+
+commit 01f2625f733eae82717201e03098299ed2366bd0
+Author: Walternights <walternights@gmail.com>
+Date:   Thu Aug 20 16:31:58 2020 -0500
+
+    Este es el registro en txt de los Commits realizados o guardados
+
+commit 126673ff6df6238f60ac1aaad037f4306022d37c
+Author: Walternights <walternights@gmail.com>
+Date:   Thu Aug 20 16:26:31 2020 -0500
+
+    Commit al master del blodpost en su version mas reciente
+
 commit c000c66009644d52f06588b5d5f857f350ce8569
 Author: Walternights <walternights@gmail.com>
 Date:   Thu Aug 20 15:56:37 2020 -0500
