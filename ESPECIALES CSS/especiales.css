@@ -38,7 +38,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #ffffff;
     margin: 0 auto;
 }
 
@@ -48,14 +48,14 @@ body
 }
 #post
 {
-    background: #DDD;
+    background: #ffffff;
     padding: 1em;
 }
 
 #footer
 {
     background: #777;
-    color: #DDD;
+    color: #ffffff;
     text-align: center;
     padding: 0.5em;
 
